@@ -2,7 +2,7 @@
 
 /**
  * main - this is a c function nested loop
- * Return: 0
+ * Return: (0) success
  */
 
 int main(void)
