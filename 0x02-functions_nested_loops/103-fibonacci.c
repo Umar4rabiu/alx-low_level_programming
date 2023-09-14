@@ -1,10 +1,11 @@
 #include <stdio.h>
 
+
 /**
- * main - the main printing funtion
- * less than 4000000.
- * Return: 0.
- */
+  * main - Print the sum of even fibonacci numbers
+  * less than 4000000.
+  * Return: 0.
+  */
 
 int main(void)
 {
