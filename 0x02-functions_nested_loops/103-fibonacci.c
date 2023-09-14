@@ -1,15 +1,14 @@
 #include <stdio.h>
 
-
 /**
-  * main - the main printing funtion
-  * less than 4000000.
-  * Return: 0.
-  */
-
+ * main - the main printing funtion
+ * less than 4000000.
+ * Return: 0.
+ */
 
 int main(void)
 {
+	
 	int i = 0;
 	long j = 1, k = 2, sum = k;
 
